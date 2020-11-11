@@ -1,2 +1,2 @@
 # Note
-A scraper for properties to rent from rightmove in Greater Manchester 
+A scraper for properties to rent from Rightmove in Greater Manchester 
